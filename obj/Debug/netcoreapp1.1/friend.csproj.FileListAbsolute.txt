@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/friend/bin/Debug/netcoreapp1.1/friend.deps.json
+/Users/Guest/Desktop/friend/bin/Debug/netcoreapp1.1/friend.runtimeconfig.json
+/Users/Guest/Desktop/friend/bin/Debug/netcoreapp1.1/friend.runtimeconfig.dev.json
+/Users/Guest/Desktop/friend/obj/Debug/netcoreapp1.1/friend.AssemblyInfo.cs
+/Users/Guest/Desktop/friend/bin/Debug/netcoreapp1.1/friend.dll
+/Users/Guest/Desktop/friend/bin/Debug/netcoreapp1.1/friend.pdb
+/Users/Guest/Desktop/friend/obj/Debug/netcoreapp1.1/friend.dll
+/Users/Guest/Desktop/friend/obj/Debug/netcoreapp1.1/friend.pdb
